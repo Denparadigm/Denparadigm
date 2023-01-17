@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denparadigm
 - 👀 I’m interested in algorithmic bias and fairness
-- 🌱 I’m currently learning assembly language, flask, kubernetes and ipython.
+- 🌱 I’m currently learning ML in Python
 
 <!---
 Denparadigm/Denparadigm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
