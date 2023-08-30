@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Denparadigm, a final year Computer Science student @ Derby
-- 👀 I’m researching algorithmic bias and the fairness issue
-- 🌱 I'm honing my data science skills
+- 👋 Hi, I’m @Denparadigm, a network engineer
+- 🎓 Studying MSc Computer Science @ University of York
+- 🌱 Programming is a hobby now
 
 <!---
 Denparadigm/Denparadigm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
